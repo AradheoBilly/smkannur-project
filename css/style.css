@@ -1,0 +1,46 @@
+.judul {
+  font-family: 'Kaushan Script, cur sive';
+  margin-bottom: 0cm;
+  margin-top: 15px;
+  color: rgb(17, 126, 160);
+}
+
+/* navbar */
+nav {
+  background-color: aqua;
+}
+
+.up {
+  text-align: center;
+  margin-bottom: 0cm;
+}
+
+@media (min-width: 992px) {
+  .tengah {
+    margin-left: 426px;
+  }
+
+  .tengah-sub {
+    padding-right: 10px;
+  }
+
+  .right {
+    margin-left: 650px;
+    padding-left: 250px;
+  }
+}
+
+.carousel {
+  margin-bottom: 100px;
+}
+
+/* body */
+h3 {
+  color: rgb(57, 83, 201);
+}
+
+/* footer */
+footer {
+  text-align: center;
+  color: rgb(91, 100, 84);
+}
